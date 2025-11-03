@@ -110,21 +110,21 @@ pip package manager
 ## 📈 Data Visualizations
 
 ### Correlation Between Prices and Quantity Ordered
-![Correlation Analysis](docs/images/correlation_price_quantity.png)
+![Correlation Analysis](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/sales%20analysis/snaps/Correlation%20Between%20The%20Prices%20And%20Quantity%20Ordered.png)
 
 This chart analyzes the relationship between product pricing and order quantities across different product categories, revealing key pricing strategies and demand patterns.
 
 ### Frequent Purchase Hours
-![Purchase Hours Analysis](docs/images/frequent_purchase_hours.png)
+![Purchase Hours Analysis](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/sales%20analysis/snaps/Frequent%20Purchase%20Hours.png)
 
 Customer purchase behavior shows peak activity **before 11 AM**, with significant volume maintained throughout business hours. This insight helps optimize inventory management and customer service staffing.
 
 ### Sales Per City
-![Sales by City](docs/images/sales_per_city.png)
+![Sales by City](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/sales%20analysis/snaps/Sales%20Per%20City.png)
 
 Geographic sales distribution reveals San Francisco (CA) as the top-performing market, followed by Los Angeles (CA) and New York City (NY). This data informs regional marketing and distribution strategies.
 
 ### Most Sold Products
-![Top Products](docs/images/most_sold_products.png)
+![Top Products](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/sales%20analysis/snaps/Most%20%20Sold%20Products.png)
 
 AAA Batteries (4-pack) lead in quantity ordered, followed by AA Batteries (4-pack) and USB-C Charging Cables. This analysis identifies high-volume products for inventory optimization.
