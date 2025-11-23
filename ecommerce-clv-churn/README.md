@@ -8,7 +8,7 @@
 
 --- 
 
-> ***you can find the whole slideshow [here](https://github.com/MMS-21/Data-Analysis--Data-Visualization/tree/f95bae087b15e29b12649f0338bf2f9f2a4c05fe/ecommerce-clv-churn/reports/slides)***
+> ***you can find the whole slideshow [here](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/f95bae087b15e29b12649f0338bf2f9f2a4c05fe/ecommerce-clv-churn/reports/slides/E-commerce%20Customer%20Analytics%20(CLV)%20%26%20Churn%20Risk.pdf)***
 
 --- 
 
