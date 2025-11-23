@@ -1,5 +1,5 @@
 # 💰 E-commerce Customer Lifetime Value (CLV) & Churn Prediction
-
+![slide1](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/ecommerce-clv-churn/reports/slides/Slide1.JPG)
 
 ## 📋 Project Overview
 
