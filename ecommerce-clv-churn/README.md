@@ -1,6 +1,17 @@
 # 💰 E-commerce Customer Lifetime Value (CLV) & Churn Prediction
 ![slide1](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/ecommerce-clv-churn/reports/slides/Slide1.JPG)
+![slide3](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/ecommerce-clv-churn/reports/slides/Slide3.JPG)
+![slide4](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/ecommerce-clv-churn/reports/slides/Slide6.JPG)
+![silde5](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/ecommerce-clv-churn/reports/slides/Slide18.JPG)
+![silde6](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/ecommerce-clv-churn/reports/slides/Slide22.JPG)
+![silde5](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/ecommerce-clv-churn/reports/slides/Slide23.JPG)
+
+--- 
+
 > ***you can find the whole slideshow [here](https://github.com/MMS-21/Data-Analysis--Data-Visualization/tree/f95bae087b15e29b12649f0338bf2f9f2a4c05fe/ecommerce-clv-churn/reports/slides)***
+
+--- 
+
 ## 📋 Project Overview
 
 This project delivers a comprehensive, data-driven framework for understanding and optimizing the customer base of an e-commerce platform. It moves beyond simple transactional summaries to implement advanced predictive modeling techniques, namely  **RFM Segmentation** , **Customer Lifetime Value (CLV)** prediction, and  **Churn Risk Modeling** .
