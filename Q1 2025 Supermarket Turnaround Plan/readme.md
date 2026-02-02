@@ -110,4 +110,5 @@ Targeting a GPM uplift to **8.0%** in Q2.
 
 ## 📈 Dashboard
 
-![Dashboard Preview](path/to/dashboard_image.png)
+![Dashboard Preview](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/Q1%202025%20Supermarket%20Turnaround%20Plan/Snaps/Screenshot%202026-02-02%20232516.png)
+
