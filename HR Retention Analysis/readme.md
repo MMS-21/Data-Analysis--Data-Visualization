@@ -90,7 +90,7 @@ Visual breakdown of turnover across **Sales**, **R&D**, and **Human Resources** 
 
 ## 📸 Screenshots
 
-_(Optional: Add screenshots of your dashboard here to give viewers a preview)_
 
 ![Dashboard Preview](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/HR%20Retention%20Analysis/SnapShots/Screenshot%202025-12-11%20151715.png)
 ![Dashboard Preview](https://github.com/MMS-21/Data-Analysis--Data-Visualization/blob/main/HR%20Retention%20Analysis/SnapShots/Screenshot%202025-12-11%20151845.png)
+
